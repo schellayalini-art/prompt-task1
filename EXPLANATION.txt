@@ -1,0 +1,11 @@
+﻿EXPLANATION:
+The prompt which is given is used to analyze the code and find the debug in the code without directly pointing out the problem in the code. This prompt has given the user more of a hint because this helps to make the student correct their mistakes instead of  getting answers directly from them. This prompt is performed with python code. This prompt avoids giving the solution directly because as the prompt has mentioned to avoid giving direct answers and instead of direct answers the prompt has to produce suggestions or ideas. And the prompt is mentioned to give hints which are small and crisp so it will be short and easier to understand for the users who use this prompt.
+This encourages the students to solve the program on their own as the prompt has written that the hints should be indirect.And it helps the students to learn their mistakes with the AI. As most of the students use AI to get answers if we use this prompt this gives suggestions instead of direct solutions.
+
+
+REASONING:
+
+
+* The tone and the style of the AI depends upon the people how they use it before. But mostly the tone or style of the AI will be enthusiastic and can also be a guide.
+* The balance between debugging and guiding is at first in the prompt it is given to analyze and later it is asked to give suggestions or ideas.This helps to  balance. At first it analyzes and second it gives suggestions. 
+* This prompt can be adapted for a beginner and for advanced learners. Even the level changes still give the suggestions which can be easily understandable for the students.
