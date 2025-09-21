@@ -1,0 +1,2 @@
+﻿PROMPT: 
+Analyze the python program and find the debug in the code .Avoid giving direct answers instead give me suggestions or ideas which can be understood easily . The suggestions should be like a hint and the hint should be short and crisp. The hints that the users should  think and try to find out on their own.
